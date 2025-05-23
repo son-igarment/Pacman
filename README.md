@@ -8,7 +8,7 @@ An example of how to use the ECS part of the [EnTT Framework](https://github.com
 
 ## Giới thiệu
 
-Đây là dự án Pacman được phát triển bởi **Phạm Lê Ngọc Sơn**. Dự án sử dụng mô hình ECS (Entity Component System) với thư viện [EnTT](https://github.com/skypjack/entt) và SDL2 để xây dựng một trò chơi Pacman đơn giản, dễ mở rộng, phù hợp cho việc học tập và nghiên cứu về lập trình game hiện đại.
+Đây là dự án Pacman được phát triển bởi **Phạm Lê Ngọc Sơn**. Dự án sử dụng mô hình ECS (Entity Component System) và SDL2 để xây dựng một trò chơi Pacman đơn giản, dễ mở rộng, phù hợp cho việc học tập và nghiên cứu về lập trình game hiện đại.
 
 ## Cấu trúc dự án
 
